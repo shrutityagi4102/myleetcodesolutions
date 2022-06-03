@@ -7,3 +7,4 @@ Solutions to the Leetcode Problems I have done :
 4. Find First and Last Position of Element in Sorted Array
 5. Student Attendance Record I
 6. Element Appearing More Than 25% In Sorted Array
+7. Number of Good Pairs
