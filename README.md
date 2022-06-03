@@ -6,3 +6,4 @@ Solutions to the Leetcode Problems I have done :
 3. Maximum Product of Two Elements in an Array
 4. Find First and Last Position of Element in Sorted Array
 5. Student Attendance Record I
+6. Element Appearing More Than 25% In Sorted Array
