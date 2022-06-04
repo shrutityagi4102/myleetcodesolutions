@@ -10,3 +10,4 @@ Solutions to the Leetcode Problems I have done :
 7. Number of Good Pairs
 8. Count Odd Numbers in an Interval Range
 9. Average Salary Excluding the Minimum and Maximum Salary
+10. Fizz Buzz
