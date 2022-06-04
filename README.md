@@ -12,3 +12,4 @@ Solutions to the Leetcode Problems I have done :
 9. Average Salary Excluding the Minimum and Maximum Salary
 10. Fizz Buzz
 11. Number of Steps to Reduce a Number to Zero
+12. Richest Customer Wealth
