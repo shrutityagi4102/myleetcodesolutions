@@ -9,3 +9,4 @@ Solutions to the Leetcode Problems I have done :
 6. Element Appearing More Than 25% In Sorted Array
 7. Number of Good Pairs
 8. Count Odd Numbers in an Interval Range
+9. Average Salary Excluding the Minimum and Maximum Salary
