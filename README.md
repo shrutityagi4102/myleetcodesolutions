@@ -11,3 +11,4 @@ Solutions to the Leetcode Problems I have done :
 8. Count Odd Numbers in an Interval Range
 9. Average Salary Excluding the Minimum and Maximum Salary
 10. Fizz Buzz
+11. Number of Steps to Reduce a Number to Zero
