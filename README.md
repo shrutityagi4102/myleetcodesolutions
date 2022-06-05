@@ -21,3 +21,4 @@ Solutions to the Leetcode Problems I have done :
 18. Majority Element
 19. Valid Anagram
 20. Contains Duplicate
+21. Missing Number
