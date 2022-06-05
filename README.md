@@ -24,3 +24,4 @@ Solutions to the Leetcode Problems I have done :
 21. Missing Number
 22. Find the Duplicate Number
 23. Sort Colors
+24. Kth Smallest Element in a Sorted Matrix
