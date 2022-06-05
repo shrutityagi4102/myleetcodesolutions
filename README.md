@@ -22,3 +22,4 @@ Solutions to the Leetcode Problems I have done :
 19. Valid Anagram
 20. Contains Duplicate
 21. Missing Number
+22. Find the Duplicate Number
