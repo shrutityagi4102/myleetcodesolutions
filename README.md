@@ -20,3 +20,4 @@ Solutions to the Leetcode Problems I have done :
 17. Kth Largest Element in an Array
 18. Majority Element
 19. Valid Anagram
+20. Contains Duplicate
