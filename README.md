@@ -18,3 +18,4 @@ Solutions to the Leetcode Problems I have done :
 15. Reverse String
 16. Single Number
 17. Kth Largest Element in an Array
+18. Majority Element
