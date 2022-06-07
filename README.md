@@ -27,3 +27,4 @@ Solutions to the Leetcode Problems I have done :
 24. Kth Smallest Element in a Sorted Matrix
 25. First Unique Character in a String
 26. Subtract the Product and Sum of Digits of an Integer
+27. Find Nearest Point That Has the Same X or Y Coordinate
