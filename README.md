@@ -31,3 +31,4 @@ Solutions to the Leetcode Problems I have done :
 28. Sign of the Product of an Array
 29. Can Make Arithmetic Progression From Sequence
 30. Happy Number
+31. Next Greater Element I
