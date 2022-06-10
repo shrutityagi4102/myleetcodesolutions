@@ -35,3 +35,4 @@ Solutions to the Leetcode Problems I have done :
 32. Move Zeroes
 33. Sum of Two Integers
 34. Matrix Diagonal Sum
+35. Two Sum
