@@ -36,3 +36,4 @@ Solutions to the Leetcode Problems I have done :
 33. Sum of Two Integers
 34. Matrix Diagonal Sum
 35. Two Sum
+36. Fibonacci Number
