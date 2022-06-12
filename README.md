@@ -38,3 +38,4 @@ Solutions to the Leetcode Problems I have done :
 35. Two Sum
 36. Fibonacci Number
 37. Flipping an Image
+38. Peak Index in a Mountain Array
