@@ -45,3 +45,4 @@ Solutions to the Leetcode Problems I have done :
 42. N-Repeated Element in Size 2N Array
 43. Squares of a Sorted Array
 44. Height Checker
+45. Sum of Digits of String After Convert
