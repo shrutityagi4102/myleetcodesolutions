@@ -44,3 +44,4 @@ Solutions to the Leetcode Problems I have done :
 41. Sort Array By Parity
 42. N-Repeated Element in Size 2N Array
 43. Squares of a Sorted Array
+44. Height Checker
