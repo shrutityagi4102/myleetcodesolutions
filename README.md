@@ -42,3 +42,4 @@ Solutions to the Leetcode Problems I have done :
 39. Transpose Matrix
 40. Rotate Image
 41. Sort Array By Parity
+42. N-Repeated Element in Size 2N Array
