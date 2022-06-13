@@ -41,3 +41,4 @@ Solutions to the Leetcode Problems I have done :
 38. Peak Index in a Mountain Array
 39. Transpose Matrix
 40. Rotate Image
+41. Sort Array By Parity
