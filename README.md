@@ -46,3 +46,4 @@ Solutions to the Leetcode Problems I have done :
 43. Squares of a Sorted Array
 44. Height Checker
 45. Sum of Digits of String After Convert
+46. To Lower Case
