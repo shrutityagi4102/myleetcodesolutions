@@ -50,3 +50,4 @@ Solutions to the Leetcode Problems I have done :
 47. Merge Strings Alternately
 48. Goal Parser Interpretation
 49. Unique Number of Occurrences
+50. Intersection of Two Arrays
