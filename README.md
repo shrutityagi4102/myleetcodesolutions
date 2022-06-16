@@ -56,3 +56,4 @@ Solutions to the Leetcode Problems I have done :
 53. Check If All 1's Are at Least Length K Places Away
 54. Number of Students Doing Homework at a Given Time
 55. Shuffle the Array
+56.  Reverse Integer
