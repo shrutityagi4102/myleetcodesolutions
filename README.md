@@ -57,3 +57,4 @@ Solutions to the Leetcode Problems I have done :
 54. Number of Students Doing Homework at a Given Time
 55. Shuffle the Array
 56.  Reverse Integer
+57.  Palindrome Number
