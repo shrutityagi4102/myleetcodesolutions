@@ -59,3 +59,4 @@ Solutions to the Leetcode Problems I have done :
 56.  Reverse Integer
 57.  Palindrome Number
 58.  Factorial Trailing Zeroes
+59.  Add Digits
