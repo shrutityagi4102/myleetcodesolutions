@@ -62,3 +62,4 @@ Solutions to the Leetcode Problems I have done :
 59.  Add Digits
 60.  Find Numbers with Even Number of Digits
 61.  Reverse Words in a String III
+62.  Minimum Index Sum of Two Lists
