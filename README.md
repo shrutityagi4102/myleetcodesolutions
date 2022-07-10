@@ -82,4 +82,5 @@ Solutions to the Leetcode Problems I have done :
 79.  Widest Vertical Area Between Two Points Containing No Points
 80.  Sum of All Odd Length Subarrays
 81.  Decode the Message
+82.  Number of Laser Beams in a Bank
 
