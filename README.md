@@ -78,4 +78,5 @@ Solutions to the Leetcode Problems I have done :
 75.  Shuffle String
 76.  Create Target Array in the Given Order
 77.  Sorting the Sentence
+78.  Count Items Matching a Rule
 
