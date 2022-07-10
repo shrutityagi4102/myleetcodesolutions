@@ -79,4 +79,5 @@ Solutions to the Leetcode Problems I have done :
 76.  Create Target Array in the Given Order
 77.  Sorting the Sentence
 78.  Count Items Matching a Rule
+79.  Widest Vertical Area Between Two Points Containing No Points
 
