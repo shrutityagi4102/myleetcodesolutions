@@ -86,3 +86,4 @@ Solutions to the Leetcode Problems I have done :
 83.  Count of Matches in Tournament
 84.  Count Number of Pairs With Absolute Difference K
 85.  Check If Two String Arrays are Equivalent
+86.  Count the Number of Consistent Strings
