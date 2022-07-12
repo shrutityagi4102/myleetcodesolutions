@@ -92,5 +92,6 @@ Solutions to the Leetcode Problems I have done :
 89.  Truncate Sentence
 90.  Check if the Sentence Is Pangram
 91.  Count Asterisks
+92.  Count Good Triplets
 
 
