@@ -93,5 +93,5 @@ Solutions to the Leetcode Problems I have done :
 90.  Check if the Sentence Is Pangram
 91.  Count Asterisks
 92.  Count Good Triplets
-
+93.  Pow(x, n)
 
