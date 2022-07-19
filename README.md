@@ -94,4 +94,5 @@ Solutions to the Leetcode Problems I have done :
 91.  Count Asterisks
 92.  Count Good Triplets
 93.  Pow(x, n)
+94.  Single Element in a Sorted Array
 
