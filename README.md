@@ -95,4 +95,5 @@ Solutions to the Leetcode Problems I have done :
 92.  Count Good Triplets
 93.  Pow(x, n)
 94.  Single Element in a Sorted Array
+95.  Binary Search
 
