@@ -96,4 +96,5 @@ Solutions to the Leetcode Problems I have done :
 93.  Pow(x, n)
 94.  Single Element in a Sorted Array
 95.  Binary Search
+96.  Find Pivot Index
 
