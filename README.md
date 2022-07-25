@@ -97,4 +97,5 @@ Solutions to the Leetcode Problems I have done :
 94.  Single Element in a Sorted Array
 95.  Binary Search
 96.  Find Pivot Index
+97.  Find the Middle Index in Array
 
