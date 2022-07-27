@@ -100,4 +100,5 @@ Solutions to the Leetcode Problems I have done :
 97.  Find the Middle Index in Array
 98.  Capitalize the Title
 99.  Count Equal and Divisible Pairs in an Array
+100. Number of Strings That Appear as Substrings in Word
 
