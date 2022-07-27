@@ -99,4 +99,5 @@ Solutions to the Leetcode Problems I have done :
 96.  Find Pivot Index
 97.  Find the Middle Index in Array
 98.  Capitalize the Title
+99.  Count Equal and Divisible Pairs in an Array
 
