@@ -107,4 +107,5 @@ Solutions to the Leetcode Problems I have done :
 104. Number Of Rectangles That Can Form The Largest Square
 105. Destination City
 106. Find the Highest Altitude
+107. Find First Palindromic String in the Array
 
