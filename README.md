@@ -102,4 +102,5 @@ Solutions to the Leetcode Problems I have done :
 99.  Count Equal and Divisible Pairs in an Array
 100. Number of Strings That Appear as Substrings in Word
 101. Replace All Digits with Characters
+102. Arithmetic Subarrays
 
