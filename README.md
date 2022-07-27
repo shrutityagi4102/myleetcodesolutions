@@ -106,4 +106,5 @@ Solutions to the Leetcode Problems I have done :
 103. Find Triangular Sum of an Array
 104. Number Of Rectangles That Can Form The Largest Square
 105. Destination City
+106. Find the Highest Altitude
 
