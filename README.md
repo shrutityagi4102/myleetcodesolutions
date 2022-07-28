@@ -118,3 +118,4 @@ Solutions to the Leetcode Problems I have done :
 115. Check if All Characters Have Equal Number of Occurrences
 116. A Number After a Double Reversal
 117. Divide Array Into Equal Pairs
+118. Sum of Unique Elements
