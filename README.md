@@ -114,3 +114,4 @@ Solutions to the Leetcode Problems I have done :
 111. Reverse Prefix of Word
 112. Find Greatest Common Divisor of Array
 113. Counting Words With a Given Prefix
+114. Self Dividing Numbers
