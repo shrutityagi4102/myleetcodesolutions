@@ -115,3 +115,4 @@ Solutions to the Leetcode Problems I have done :
 112. Find Greatest Common Divisor of Array
 113. Counting Words With a Given Prefix
 114. Self Dividing Numbers
+115. Check if All Characters Have Equal Number of Occurrences
