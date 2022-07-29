@@ -121,3 +121,4 @@ Solutions to the Leetcode Problems I have done :
 118. Sum of Unique Elements
 119. Final Prices With a Special Discount in a Shop
 120. Count Negative Numbers in a Sorted Matrix
+121. Replace Elements with Greatest Element on Right Side
