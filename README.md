@@ -120,3 +120,4 @@ Solutions to the Leetcode Problems I have done :
 117. Divide Array Into Equal Pairs
 118. Sum of Unique Elements
 119. Final Prices With a Special Discount in a Shop
+120. Count Negative Numbers in a Sorted Matrix
