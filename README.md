@@ -124,3 +124,4 @@ Solutions to the Leetcode Problems I have done :
 121. Replace Elements with Greatest Element on Right Side
 122. The K Weakest Rows in a Matrix
 123. Check if Word Equals Summation of Two Words
+124. Percentage of Letter in String
