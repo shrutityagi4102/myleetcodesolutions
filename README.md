@@ -122,3 +122,4 @@ Solutions to the Leetcode Problems I have done :
 119. Final Prices With a Special Discount in a Shop
 120. Count Negative Numbers in a Sorted Matrix
 121. Replace Elements with Greatest Element on Right Side
+122. The K Weakest Rows in a Matrix
