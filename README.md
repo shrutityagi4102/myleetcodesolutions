@@ -126,3 +126,4 @@ Solutions to the Leetcode Problems I have done :
 123. Check if Word Equals Summation of Two Words
 124. Percentage of Letter in String
 125. Baseball Game
+126. Count Prefixes of a Given String
