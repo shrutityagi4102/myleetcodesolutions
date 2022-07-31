@@ -125,3 +125,4 @@ Solutions to the Leetcode Problems I have done :
 122. The K Weakest Rows in a Matrix
 123. Check if Word Equals Summation of Two Words
 124. Percentage of Letter in String
+125. Baseball Game
