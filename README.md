@@ -130,3 +130,4 @@ Solutions to the Leetcode Problems I have done :
 127. Delete Node in a Linked List
 128. Find All Duplicates in an Array
 129. Remove All Occurrences of a Substring
+130. Number of Pairs of Strings With Concatenation Equal to Target
