@@ -127,3 +127,4 @@ Solutions to the Leetcode Problems I have done :
 124. Percentage of Letter in String
 125. Baseball Game
 126. Count Prefixes of a Given String
+127. Delete Node in a Linked List
