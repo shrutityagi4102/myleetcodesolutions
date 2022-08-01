@@ -134,3 +134,4 @@ Solutions to the Leetcode Problems I have done :
 131. 2 out of 3
 132. Kth Distinct String in an Array
 133. Check if All A's Appears Before All B's
+134. Smallest Index With Equal Value
