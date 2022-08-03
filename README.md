@@ -142,3 +142,4 @@ Solutions to the Leetcode Problems I have done :
 139. Sort Array By Parity II
 140. Substrings of Size Three with Distinct Characters
 141. Keyboard Row
+142. Sort Characters By Frequency
