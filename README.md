@@ -144,3 +144,4 @@ Solutions to the Leetcode Problems I have done :
 141. Keyboard Row
 142. Sort Characters By Frequency
 143. Goat Latin
+144. Two Furthest Houses With Different Colors
