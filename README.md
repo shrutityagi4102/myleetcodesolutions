@@ -146,3 +146,4 @@ Solutions to the Leetcode Problems I have done :
 143. Goat Latin
 144. Two Furthest Houses With Different Colors
 145. Validate IP Address
+146. Next Greater Element II
