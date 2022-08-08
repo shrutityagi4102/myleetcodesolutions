@@ -157,3 +157,4 @@ Solutions to the Leetcode Problems I have done :
 154. Number of Arithmetic Triplets
 155. Top K Frequent Elements
 156. Count Integers With Even Digit Sum
+157. Three Consecutive Odds
