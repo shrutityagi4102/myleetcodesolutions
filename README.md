@@ -162,3 +162,4 @@ Solutions to the Leetcode Problems I have done :
 159. Find Lucky Integer in an Array
 160. Find Three Consecutive Integers That Sum to a Given Number
 161. Reformat Date
+162. The kth Factor of n
