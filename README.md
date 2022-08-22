@@ -177,3 +177,4 @@ Solutions to the Leetcode Problems I have done :
 174. Permutations II
 175. Path Crossing
 176. Kth Missing Positive Number
+177. Detect Capital
