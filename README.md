@@ -179,3 +179,4 @@ Solutions to the Leetcode Problems I have done :
 176. Kth Missing Positive Number
 177. Detect Capital
 178. Intersection of Two Arrays II
+179. Build Array from Permutation
