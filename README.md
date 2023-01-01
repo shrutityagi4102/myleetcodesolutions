@@ -182,3 +182,4 @@ Solutions to the Leetcode Problems I have done :
 179. Build Array from Permutation
 180. Smallest Even Multiple
 181. Root Equals Sum of Children
+182. Convert the Temperature
