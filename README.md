@@ -185,3 +185,4 @@ Solutions to the Leetcode Problems I have done :
 182. Convert the Temperature
 183. How Many Numbers Are Smaller Than the Current Number
 184. Cells in a Range on an Excel Sheet
+185. XOR Operation in an array 
