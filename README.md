@@ -193,3 +193,4 @@ Solutions to the Leetcode Problems I have done :
 190. Minimum Bit Flips to Convert Number
 191. Maximum 69 Number
 192. Minimum Number of Moves to Seat Everyone
+193. Sort the People
