@@ -187,3 +187,4 @@ Solutions to the Leetcode Problems I have done :
 184. Cells in a Range on an Excel Sheet
 185. XOR Operation in an array 
 186. Count the Digits That Divide a Number
+187. Queries on a Permutation With Key
