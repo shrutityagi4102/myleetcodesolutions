@@ -189,3 +189,4 @@ Solutions to the Leetcode Problems I have done :
 186. Count the Digits That Divide a Number
 187. Queries on a Permutation With Key
 188. Delete Greatest Value in Each Row
+189. Convert Binary Number in a Linked List to Integer
