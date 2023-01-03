@@ -192,3 +192,4 @@ Solutions to the Leetcode Problems I have done :
 189. Convert Binary Number in a Linked List to Integer
 190. Minimum Bit Flips to Convert Number
 191. Maximum 69 Number
+192. Minimum Number of Moves to Seat Everyone
