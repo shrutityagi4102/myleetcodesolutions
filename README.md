@@ -188,3 +188,4 @@ Solutions to the Leetcode Problems I have done :
 185. XOR Operation in an array 
 186. Count the Digits That Divide a Number
 187. Queries on a Permutation With Key
+188. Delete Greatest Value in Each Row
