@@ -195,3 +195,4 @@ Solutions to the Leetcode Problems I have done :
 192. Minimum Number of Moves to Seat Everyone
 193. Sort the People
 194. Minimize Maximum Pair Sum in Array
+195. Find the Pivot Integer
