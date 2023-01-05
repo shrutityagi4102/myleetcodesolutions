@@ -194,3 +194,4 @@ Solutions to the Leetcode Problems I have done :
 191. Maximum 69 Number
 192. Minimum Number of Moves to Seat Everyone
 193. Sort the People
+194. Minimize Maximum Pair Sum in Array
